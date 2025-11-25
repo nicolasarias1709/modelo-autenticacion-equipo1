@@ -24,7 +24,7 @@ Las siguientes historias de usuario guían el desarrollo de este módulo:
 
 Sigue el progreso de las tareas, *issues* y *sprints* de este proyecto en nuestro tablero de GitHub Projects:
 
-[**ENLACE_A_TU_TABLERO_DE_GITHUB_PROJECTS**](https://github.com/tu_usuario/tu_repositorio/projects/1)
+[**ENLACE_A_TU_TABLERO_DE_GITHUB_PROJECTS**](https://github.com/users/nicolasarias1709/projects/2)
 
 ---
 
